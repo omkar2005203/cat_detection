@@ -1,5 +1,5 @@
 
-To train on CPU and use use best.pt
+To train on CPU and use use best.pt and run main.py
 
 ```
 yolo task=detect mode=train data=data.yaml model=yolov8n.pt epochs=30 imgsz=640
